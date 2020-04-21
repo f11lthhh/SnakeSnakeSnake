@@ -1,0 +1,14 @@
+Z:\игра\Змейка1\Змейка1\obj\Debug\Змейка1.csprojAssemblyReference.cache
+Z:\игра\Змейка1\Змейка1\obj\Debug\Змейка1.csproj.CoreCompileInputs.cache
+Z:\игра\Змейка1\Змейка1\bin\Debug\Змейка1.exe.config
+Z:\игра\Змейка1\Змейка1\bin\Debug\Змейка1.exe
+Z:\игра\Змейка1\Змейка1\bin\Debug\Змейка1.pdb
+Z:\игра\Змейка1\Змейка1\obj\Debug\Змейка1.exe
+Z:\игра\Змейка1\Змейка1\obj\Debug\Змейка1.pdb
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\bin\Debug\Змейка1.exe.config
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\bin\Debug\Змейка1.exe
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\bin\Debug\Змейка1.pdb
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\obj\Debug\Змейка1.csprojAssemblyReference.cache
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\obj\Debug\Змейка1.csproj.CoreCompileInputs.cache
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\obj\Debug\Змейка1.exe
+C:\Users\Kabak\OneDrive\Рабочий стол\Змейка1\Змейка1\obj\Debug\Змейка1.pdb
